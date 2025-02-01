@@ -5,7 +5,7 @@
 <section class="about">
   <h2>💫 About Me:</h2>
   <p>🏫 College: <strong>Maps College Mangalore</strong></p>
-  <p>🔭 I’m currently working on: <a href="https://github.com/SHADOW269/FARMING_WEB" target="_blank">🌾 FARMING WEB</a></p>
+  <p>🔭 I’m currently working on: <a href="" target="_blank">...</a></p>
 </section>
 
 <section class="connect">
