@@ -25,8 +25,4 @@
   </div>
 </section>
 
-<section>
-  <img src="https://count.chiya.dev/get/@shadow2669?theme=gelbooru" alt="Visitor Count">
-</section>
-
 <footer><p>&copy; 2025 Shadow. All Rights Reserved.</p></footer>
