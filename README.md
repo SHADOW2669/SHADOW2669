@@ -5,7 +5,7 @@
 <section class="about">
   <h2>💫 About Me:</h2>
   <p>🏫 College: <strong>Maps College Mangalore</strong></p>
-  <p>🔭 I’m currently working on: <a href="https://github.com/SHADOW2669/CivicEye" target="_blank">CivicEye</a></p>
+  <p>🔭 I’m currently working on: <a href="https://civiceye.my/" target="_blank">CivicEye</a></p>
 </section>
 
 <section class="connect">
