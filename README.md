@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 - 🏫 **College:** Maps College, Mangalore
-- 🔭 **Currently working on:** [CivicEye](https://civiceye.my/) | [Repo](https://github.com/SHADOW2669/CivicEye)
+- 🔭 **Currently working on:** [CivicEye](https://civiceye.my/) <br> In case the above link is not working [CivicEye](https://shadow2669.github.io/CivicEye_Website/)  | [Repo](https://github.com/SHADOW2669/CivicEye)
 
 ## 🌐 Connect with Me
 <p align="">
