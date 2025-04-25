@@ -3,9 +3,19 @@
 </p>
 
 ## 💫 About Me
+
 - 🏫 **College:** MAPS College, Mangalore  
 - 🔭 **Currently working on:** [CivicEye](https://civiceye.my/)  
-  If the above link doesn't work, try: [CivicEye Website](https://shadow2669.github.io/CivicEye_Website/) | [GitHub Repo](https://github.com/SHADOW2669/CivicEye)
+  If the above link doesn't work, try: [CivicEye Website](https://shadow2669.github.io/CivicEye_Website/) · [GitHub Repo](https://github.com/SHADOW2669/CivicEye)
+
+## 🚀 Featured Projects
+
+| Project Name | Description | Link |
+|--------------|-------------|------|
+| **CivicEye** | 🧠 Real-time helmet detection using YOLOv8, with GUI and local image saving. | [View on GitHub](https://github.com/SHADOW2669/CivicEye) |
+| **CivicEye Website (Hosted)** | 🌐 Always-available static website hosted via GitHub Pages with a futuristic UI and 24x7 access. | [View on GitHub](https://github.com/SHADOW2669/CivicEye_Website) |
+| **CivicEye Website Server** | 🗂️ Full-featured PHP + MySQL backend with login, admin panel, and detection logs. | [View on GitHub](https://github.com/SHADOW2669/CivicEye-Website-Server) |
+
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -36,7 +46,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHADOW2669&theme=highcontrast&hide_border=true&border_radius=5&mode=weekly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
-
+---
 
 ### 🏆 Badges
 <p align="left">
