@@ -40,6 +40,8 @@ Hello there! I'm SHADOW, a passionate learner and developer.
         <li>📊 Admin panel for data management</li>
         <li>📝 Detailed violation logging for centralized incident tracking</li>
       </ul>
+       <p align="left">
+        <strong>🔗 <a href="https://shadow2669.github.io/CivicEye_Website/">View the static Website</a></strong>
       <p align="left">
         <strong>🔗 <a href="https://github.com/SHADOW2669/CivicEye-Website-Server">View on GitHub</a></strong>
       </p>
