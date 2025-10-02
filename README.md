@@ -3,8 +3,7 @@
 </p>
 
 ## 🧑‍💻 About Me
-Hello there! I'm SHADOW, a passionate learner and developer.
-<img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+Hello there! I'm SHADOW, an aspiring Cybersecurity Professional at [CYBERSAPIENS](https://github.com/SHADOW2669/CYBERSAPIENS).<img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 🌟 Projects
 [![CivicEye Website Status](https://github.com/SHADOW2669/CivicEye_Website/actions/workflows/check-status.yml/badge.svg)](https://civiceye.my)
