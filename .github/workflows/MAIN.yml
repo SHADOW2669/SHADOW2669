@@ -15,28 +15,23 @@ jobs:
 
     steps:
       # Step 1: Check out the repository's code
-      # Using v4 for the latest features and security updates.
       - uses: actions/checkout@v4
 
-      # Step 2: Generate the snake animation files
-      # It's best practice to use a specific version tag (e.g., @v3) instead of @master
-      # to prevent your workflow from breaking with future updates.
+      # Step 2: Generate the snake animation files (Corrected Step)
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
           # Your GitHub username
           github_user_name: SHADOW2669
-          # Define the output paths for the generated files
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-        # Use the GITHUB_TOKEN to ensure the action can retrieve your contribution graph
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Use the 'outputs' input to specify the files to generate.
+          # This replaces the old 'gif_out_path' and 'svg_out_path' inputs.
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
+        # The GITHUB_TOKEN is not needed in the 'with' section for this action;
+        # it reads it from the environment by default.
 
       # Step 3: Commit and push the generated files to the 'output' branch
-      # This single action handles creating the 'output' branch if it doesn't exist
-      # and pushing the contents of the 'build_dir' to it.
-      # This replaces the two separate push actions from your original file.
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -45,5 +40,5 @@ jobs:
           # The branch to which the files will be pushed
           target_branch: output
         env:
-          # The GITHUB_TOKEN is required for authentication
+          # The GITHUB_TOKEN is required for authentication to push to the branch
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
