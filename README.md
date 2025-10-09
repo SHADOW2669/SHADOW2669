@@ -57,9 +57,10 @@ Hello there! I'm SHADOW, an aspiring Cybersecurity Professional at [CYBERSAPIENS
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHADOW2669&theme=dark" width="49%"/>
 </p>
 
-<picture>
-![snake gif](https://github.com/SHADOW2669/SHADOW2669/blob/output/github-contribution-grid-snake.gif)
-</picture>
+<div align="center">
+    
+  ![snake gif](https://github.com/SHADOW2669/SHADOW2669/blob/output/github-snake-dark.svg)
+</div>
 
 ## ⚒️ Tech Stack
 <p align="center">
