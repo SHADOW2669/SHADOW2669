@@ -63,6 +63,10 @@ Hello there! I'm SHADOW, an aspiring Cybersecurity Professional at [CYBERSAPIENS
   <img src="https://skillicons.dev/icons?i=php,dotnet,mysql,git,github,vscode,pycharm,linux&theme=dark&perline=8" alt="Tech Stack Row 2"/>
 </p>
 
+
+![snake gif](https://github.com/SHADOW2669/SHADOW2669/blob/output/github-contribution-grid-snake.gif)
+
+
 ## 🌐 Connect With Me
 
 <p align="left">
