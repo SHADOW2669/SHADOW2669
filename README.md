@@ -57,15 +57,26 @@ Hello there! I'm SHADOW, an aspiring Cybersecurity Professional at [CYBERSAPIENS
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHADOW2669&theme=dark" width="49%"/>
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## ⚒️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,r,html,css,javascript&theme=dark&perline=9" alt="Tech Stack Row 1"/><br>
   <img src="https://skillicons.dev/icons?i=php,dotnet,mysql,git,github,vscode,pycharm,linux&theme=dark&perline=8" alt="Tech Stack Row 2"/>
 </p>
-
-
-![snake gif](https://github.com/SHADOW2669/SHADOW2669/blob/output/github-contribution-grid-snake.gif)
-
 
 ## 🌐 Connect With Me
 
