@@ -13,23 +13,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    # This is the crucial addition. It gives the workflow permission to push to your repository.
+    permissions:
+      contents: write
+
     steps:
       # Step 1: Check out the repository's code
       - uses: actions/checkout@v4
 
-      # Step 2: Generate the snake animation files (Corrected Step)
+      # Step 2: Generate the snake animation files
       - uses: Platane/snk@v3
         with:
           # Your GitHub username
           github_user_name: SHADOW2669
           
           # Use the 'outputs' input to specify the files to generate.
-          # This replaces the old 'gif_out_path' and 'svg_out_path' inputs.
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
-        # The GITHUB_TOKEN is not needed in the 'with' section for this action;
-        # it reads it from the environment by default.
 
       # Step 3: Commit and push the generated files to the 'output' branch
       - name: Deploy to output branch
