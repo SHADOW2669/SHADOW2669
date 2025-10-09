@@ -12,8 +12,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    # This is the crucial addition. It gives the workflow permission to push to your repository.
     permissions:
       contents: write
 
@@ -27,10 +25,10 @@ jobs:
           # Your GitHub username
           github_user_name: SHADOW2669
           
-          # Use the 'outputs' input to specify the files to generate.
+          # Add '?palette=github-dark' to generate the dark theme version
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?palette=github-dark
 
       # Step 3: Commit and push the generated files to the 'output' branch
       - name: Deploy to output branch
