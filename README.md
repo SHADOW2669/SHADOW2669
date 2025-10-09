@@ -73,22 +73,30 @@ Hello there! I'm SHADOW, an aspiring Cybersecurity Professional at [CYBERSAPIENS
 </picture>
 
 ## ⚒️ Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,r,html,css,javascript&theme=dark&perline=9" alt="Tech Stack Row 1"/><br>
   <img src="https://skillicons.dev/icons?i=php,dotnet,mysql,git,github,vscode,pycharm,linux&theme=dark&perline=8" alt="Tech Stack Row 2"/>
 </p>
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/shadowking_2669" target="_blank" style="margin-right: 15px;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/instagram.svg" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/shadow269" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" alt="GitHub" />
+  </a>
+  <a href="https://www.reddit.com/user/SHADOW_269/" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/reddit.svg" alt="GitHub" />
   </a>
   <a href="https://discord.com/users/1051180323058237450" target="_blank" style="margin-right: 15px;">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg" alt="Discord" />
   </a>
   <a href="https://github.com/SHADOW2669" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/github.svg" alt="GitHub" />
   </a>
 </p>
+
+
 
